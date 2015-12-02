@@ -1,6 +1,6 @@
 {
   "name": "webrtc2images",
-  "version": "1.4.4",
+  "version": "2.0.0",
   "description": "A small client side library to convert getUserMedia video into image frames",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,7 @@
     "url": "https://github.com/kid-icarus/node-webrtc2images/issues"
   },
   "homepage": "https://github.com/kid-icarus/node-webrtc2images",
-  "dependencies": {
-  },
+  "dependencies": {},
   "jshintConfig": {
     "browser": true,
     "devel": true,
