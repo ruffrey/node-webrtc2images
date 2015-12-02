@@ -94,15 +94,3 @@ recordBtn.addEventListener('click', function (ev) {
   });
 });
 ```
-
-Here's some markup that the lib needs, at some point I can refine this...
-
-```html
-<div class="video-actions" id="record">
-  <span class="recorder"></span> <span class="text">Record</span>
-</div>
-<div id="video-preview"></div>
-<div class="debugger">
-  <p id="debug-msg">
-</div>
-```
